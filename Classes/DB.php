@@ -4,7 +4,7 @@
 class DB
 {
     private string $host = 'localhost';
-    private string $db = 'blog';
+    private string $db = 'exo203';
     private string $user = 'root';
     private string $password = '';
     private static ?PDO $dbInstance = null;
